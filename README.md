@@ -28,6 +28,7 @@ Debido a que el programa del proyecto se desarrolló exclusivamente para el sist
 
 -Guía de instalación
 
+El código no requiere de algún tipo de descargable o ejecutable, simplemente se debe copiar el link del repositorio de GitHub en el en el iniciador de proyectos de CLion, en donde se encontrará el cuerpo del código.
 
 #
 

@@ -55,6 +55,7 @@ Para la ejecución del programa y su óptimo funcionamiento se requerirá de:
 
 -Link del video presentación
 
+https://www.youtube.com/watch?v=CDo8jsQCNhs
 
 #
 
